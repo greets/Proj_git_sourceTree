@@ -1,0 +1,4 @@
+#This is a local gitignore file, only for this repository.
+#This file will have to be committed and pushed to the central repository to be shared among others.
+
+*.tmp
